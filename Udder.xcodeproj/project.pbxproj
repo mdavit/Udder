@@ -11,6 +11,7 @@
 		A663AEF628D1B5ED002C513C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A663AEF528D1B5ED002C513C /* ContentView.swift */; };
 		A663AEF828D1B5EE002C513C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A663AEF728D1B5EE002C513C /* Assets.xcassets */; };
 		A663AEFC28D1B5EE002C513C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A663AEFB28D1B5EE002C513C /* Preview Assets.xcassets */; };
+		A663AF0328D1B803002C513C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A663AF0228D1B803002C513C /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		A663AEF728D1B5EE002C513C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A663AEF928D1B5EE002C513C /* Udder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Udder.entitlements; sourceTree = "<group>"; };
 		A663AEFB28D1B5EE002C513C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A663AF0228D1B803002C513C /* Main.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				A663AEF328D1B5ED002C513C /* UdderApp.swift */,
 				A663AEF528D1B5ED002C513C /* ContentView.swift */,
+				A663AF0228D1B803002C513C /* Main.storyboard */,
 				A663AEF728D1B5EE002C513C /* Assets.xcassets */,
 				A663AEF928D1B5EE002C513C /* Udder.entitlements */,
 				A663AEFA28D1B5EE002C513C /* Preview Content */,
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A663AF0328D1B803002C513C /* Main.storyboard in Resources */,
 				A663AEFC28D1B5EE002C513C /* Preview Assets.xcassets in Resources */,
 				A663AEF828D1B5EE002C513C /* Assets.xcassets in Resources */,
 			);
